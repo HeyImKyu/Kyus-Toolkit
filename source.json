@@ -15,6 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "HeyImKyu/PhysboneEditor", 
-        "HeyImKyu/BoundsEditor"
+        "HeyImKyu/BoundsEditor", 
+        "HeyImKyu/AnimatorEditor"
     ]
 }
