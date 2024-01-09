@@ -16,6 +16,7 @@
     "githubRepos":[
         "HeyImKyu/PhysboneEditor", 
         "HeyImKyu/BoundsEditor", 
-        "HeyImKyu/AnimatorEditor"
+        "HeyImKyu/AnimatorEditor",
+        "HeyImKyu/MatCopy"
     ]
 }
